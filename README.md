@@ -19,33 +19,35 @@ Este proyecto es un ejemplo de un **sitio web de venta de autos** diseñado para
 
 ## 📂 Estructura del proyecto
 
+```plaintext
 venta_autos/
 │
 ├── .vscode/
-│ └── launch.json # Configuración de VSCode (opcional)
+│   └── launch.json              # Configuración de VSCode
 │
 ├── img/
-│ ├── logo.png # Logo del sitio
-│ └── catalogo/ # Todas las imágenes de autos
-│ ├── auto1.jpg
-│ ├── auto2.jpg
-│ └── ...
+│   ├── logo.png                 # Logo del sitio
+│   └── catalogo/                # Todas las imágenes de autos
+│       ├── auto1.jpg
+│       ├── auto2.jpg
+│       └── ...
 │
 ├── sql/
-│ └── citas_db.sql # Script para crear la base de datos y tabla
+│   └── citas_db.sql             # Script de la base de datos
 │
 ├── css/
-│ └── estilos.css # Estilos del sitio
+│   └── estilos.css              # Estilos del sitio
 │
 ├── php/
-│ ├── conexion.php # Conexión a la base de datos
-│ ├── agendar_cita.php # Inserción de citas en la base
-│ └── ver_citas.php # (opcional) ver citas desde admin
+│   ├── conexion.php             # Conexión a la base de datos
+│   ├── agendar_cita.php         # Inserción de citas
+│   └── ver_citas.php            # (opcional) ver citas desde admin
 │
-├── index.html # Página principal
-├── contacto.html # Página de contacto
-├── politica.html # Política de privacidad
-└── README.md # Descripción del proyecto
+├── index.html                   # Página principal
+├── contacto.html                # Página de contacto
+├── politica.html                # Política de privacidad
+└── README.md                    # Descripción del proyecto
+
 
 
 
