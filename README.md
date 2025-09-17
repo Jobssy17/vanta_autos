@@ -47,7 +47,7 @@ venta_autos/
 ├── contacto.html                # Página de contacto
 ├── politica.html                # Política de privacidad
 └── README.md                    # Descripción del proyecto
-
+```
 
 
 
