@@ -65,3 +65,8 @@ CREATE TABLE citas (
   correo VARCHAR(100),
   fecha DATE
 );
+
+```
+## A TENER EN CUENTA
+Al momento de ejecutar el proyecto debe activar PHP desde el cmd con: php -S localhost:8000
+y luego en su navegador buscar: http://localhost:8000/index.html
